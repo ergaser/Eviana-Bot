@@ -23,6 +23,6 @@ OMMO Gimme a star and follow me
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/herox-xd/TrickyAbhi-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![Herox](https://telegra.ph/file/4a5aed09ce4c38282ceff.jpg)](https://telegram.me/EvianaUpdate)
+[![Herox](https://telegra.ph/file/4a5aed09ce4c38282ceff.jpg)](https://telegram.me/EvianaUpdates)
 
 
